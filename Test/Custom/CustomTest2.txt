@@ -1,0 +1,18 @@
+// Testing Operations
+
+begin
+
+constant = 4.0;
+doubleConstant = 4.0 * 2;
+testing3 = 4.1;
+
+alpha = 10
+beta = 20
+charlie = alpha + beta;
+delta = charlie - beta;
+echo = delta * charlie;
+foxtrot = echo / delta;
+golf = foxtrot / echo * delta + charlie - beta;
+hotel = golf * foxtrot + echo / delta * charlie - beta + alpha;
+
+end

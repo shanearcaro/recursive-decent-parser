@@ -1,0 +1,7 @@
+// No End
+
+begin
+const = "What do you even put here?";
+varA = 12345;
+varB = 54321.0;
+varC = .12345;

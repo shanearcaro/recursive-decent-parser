@@ -1,0 +1,21 @@
+// Custom Testing File
+// Testing comments
+
+begin
+
+// Testing Variables
+intNumber = 10;
+realNumber = 10.0;
+variable = "Testing String! - !@#$%^&*()_+=':;/?.>,<\|[]{}\"";
+variable2 = "Tesint Quote String = \" Quotation \"";
+
+idontknow = 72
+hereWeGo=19
+lastone=32.35
+maybeOneMroeTime=21.21
+
+if (intNumber) then print "variable", variable2;
+if (variable2) then print "Testing notation", variable3;
+
+end
+

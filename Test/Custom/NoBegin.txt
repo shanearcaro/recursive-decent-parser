@@ -1,0 +1,5 @@
+// No Begin Keyword
+
+constant = 43.2;
+string = "Good Morning Vietnam!";
+end
