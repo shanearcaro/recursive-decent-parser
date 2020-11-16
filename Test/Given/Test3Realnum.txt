@@ -1,0 +1,9 @@
+//Illegal real number 
+begin
+  print "Good morning NJIT";
+  
+  //compute circle area and circumference
+  r = 5.;
+  pi = .14; 
+end
+  

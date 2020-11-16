@@ -1,0 +1,9 @@
+//Missing a semicolon
+begin
+  print "Good morning NJIT";
+  
+  //compute circle area and circumference
+  r = 5.0
+  pi = .14; 
+end
+  

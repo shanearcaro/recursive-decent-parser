@@ -1,0 +1,10 @@
+//Undefined variable
+begin
+  print "Good morning NJIT";
+  //compute circle area and circumference
+  r = 5.0;
+  .14;
+  area = pi * r * r;
+  if (x) then print "Area: ", area;
+end
+  

@@ -1,0 +1,9 @@
+//Illegal string constant
+begin
+  print "Good morning NJIT;
+  
+  //compute circle area and circumfeence
+  r = 5.;
+  pi = .14; 
+end
+  
