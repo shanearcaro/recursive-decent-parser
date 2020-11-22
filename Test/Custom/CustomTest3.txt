@@ -1,4 +1,7 @@
 begin
-if (x) print "Hello";
+
+print x;
+x = 13;
+if (x) then print "This is working so far";
 
 end
